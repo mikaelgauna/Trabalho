@@ -56,7 +56,7 @@ Focado em descobrir quais fatores pesam na decisão de abandonar o curso e os su
 
 
 ## 4. Requisitos Não Funcionais
-[cite_start]Lista de requisitos técnicos fundamentais para o funcionamento do Retenção-Grad[cite: 26, 27].
+Lista de requisitos técnicos fundamentais para o funcionamento do Retenção-Grad[cite: 26, 27].
 
 
 * **RNF01 - Privacidade e Segurança (LGPD):** O sistema deve garantir o anonimato de dados sensíveis e operar com perfis de acesso restritos[cite: 28]. Professores terão acesso apenas ao histórico pedagógico e a "tags" de acompanhamento genéricas, enquanto dados psicológicos e socioeconômicos detalhados serão visíveis exclusivamente pelo Núcleo de Apoio ao Estudante (CAE/SAP/SRA).
