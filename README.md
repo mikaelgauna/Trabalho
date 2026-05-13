@@ -37,7 +37,7 @@ Focado em descobrir quais fatores pesam na decisão de abandonar o curso e os su
 
 
 ## 3. Requisitos Funcionais (Foco na Prevenção da Evasão)
-[cite_start]Lista consolidada após o cruzamento de dados das entrevistas (Docentes) e questionários (Estudantes), focando na prevenção e ação proativa[cite: 23, 35].
+[cite_start]Lista consolidada após o cruzamento de dados das entrevistas (Docentes) e questionários (Estudantes), focando na prevenção e ação proativa.
 
 
 * **RF01 - Alerta Inteligente de Faltas:** O sistema deve calcular automaticamente padrões de ausência (ex: 3 dias seguidos ou 5 faltas alternadas) e exibir um alerta visual para o professor na tela de chamada.
@@ -59,6 +59,6 @@ Focado em descobrir quais fatores pesam na decisão de abandonar o curso e os su
 Lista de requisitos técnicos fundamentais para o funcionamento do Retenção-Grad.
 
 
-* **RNF01 - Privacidade e Segurança (LGPD):** O sistema deve garantir o anonimato de dados sensíveis e operar com perfis de acesso restritos[cite: 28]. Professores terão acesso apenas ao histórico pedagógico e a "tags" de acompanhamento genéricas, enquanto dados psicológicos e socioeconômicos detalhados serão visíveis exclusivamente pelo Núcleo de Apoio ao Estudante (CAE/SAP/SRA).
+* **RNF01 - Privacidade e Segurança (LGPD):** O sistema deve garantir o anonimato de dados sensíveis e operar com perfis de acesso restritos. Professores terão acesso apenas ao histórico pedagógico e a "tags" de acompanhamento genéricas, enquanto dados psicológicos e socioeconômicos detalhados serão visíveis exclusivamente pelo Núcleo de Apoio ao Estudante (CAE/SAP/SRA).
 * **RNF02 - Disponibilidade e Confiabilidade:** O sistema deve garantir uma alta disponibilidade (uptime de 99,9%), possuindo infraestrutura escalável (como servidores em nuvem) para evitar quedas e lentidão durante os períodos críticos, como semanas de provas, fechamento de notas e rematrículas.
 * **RNF03 - Performance e Predição:** O sistema deve ser capaz de processar os cruzamentos de dados (frequência, notas, engajamento no AVA) em segundo plano, garantindo que a emissão de alertas na interface do professor (durante a chamada) ocorra em tempo real, sem travamentos.
