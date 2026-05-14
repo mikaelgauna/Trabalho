@@ -41,7 +41,7 @@ Lista consolidada após o cruzamento de dados das entrevistas (Docentes) e quest
 
 * **RF01 - Alerta Inteligente de Faltas:** O sistema deve calcular automaticamente padrões de ausência (ex: 3 dias seguidos ou 5 faltas alternadas) e exibir um alerta visual para o professor na tela de chamada.
 * **RF02 - Gatilho de Acionamento Rápido:** Durante a chamada, o sistema deve fornecer um botão de "Aviso Rápido" para o professor notificar a Coordenação e a Assistência Estudantil com apenas um clique sobre um aluno em risco.
-* **RF03 - Monitoramento de Engajamento no AVA:** O sistema deve monitorar e emitir alertas caso um aluno passe determinado número de dias (ex: 3 dias) sem acessar o Ambiente Virtual de Aprendizagem ou visualizar os materiais postados.
+* **RF03 - Monitoramento de Engajamento:** O sistema deve monitorar e emitir alertas caso um aluno passe determinado número de dias (ex: 3 dias) sem acessar o Ambiente Virtual de Aprendizagem ou visualizar os materiais postados.
 * **RF04 - Mapeamento de Envolvimento Extracurricular:** O sistema deve cruzar dados de participação do aluno em editais, semanas acadêmicas, bolsas de pesquisa e extensão, indicando "baixo envolvimento" se o índice for nulo.
 * **RF05 - Painel de Controle de Sobrecarga de Tarefas:** O sistema deve alertar a coordenação e os professores se houver um excesso de trabalhos/tarefas agendados para a mesma turma na mesma semana (mitigando a dor relatada por 50% dos alunos).
 * **RF06 - Módulo de Orientação de Carreira:** O sistema deve possuir uma área onde o aluno possa agendar conversas sobre orientação vocacional e de carreira (suporte mais requisitado pelos alunos).
